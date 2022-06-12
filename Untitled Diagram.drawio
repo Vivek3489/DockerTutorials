@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-12T12:51:32.106Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.115 Safari/537.36" etag="_nQwsRSZwu_euzbCuHTL" version="20.0.0" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-06-12T18:15:26.174Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.115 Safari/537.36" etag="drQIVqc__oRmVx7_YI--" version="20.0.0" type="github" pages="2">
   <diagram id="nxy7nug23J94L-nh9ipa" name="Page-2">
     <mxGraphModel dx="1426" dy="721" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -47,12 +47,12 @@
     </mxGraphModel>
   </diagram>
   <diagram id="Csz54WcsCxggMX012M2-" name="Page-1">
-    <mxGraphModel dx="1426" dy="721" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1426" dy="664" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="mwnPhGJqHr3dkJhOsE_W-91" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="310" y="3400" width="397" height="290" as="geometry" />
+          <mxGeometry x="310" y="3330" width="397" height="290" as="geometry" />
         </mxCell>
         <mxCell id="mwnPhGJqHr3dkJhOsE_W-44" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="493" y="2637.25" width="200" height="180" as="geometry" />
@@ -628,7 +628,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="mwnPhGJqHr3dkJhOsE_W-74" value="" style="group;strokeColor=#66B2FF;dashed=1;" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="112.5" y="3440" width="151" height="79" as="geometry" />
+          <mxGeometry x="112.5" y="3370" width="151" height="79" as="geometry" />
         </mxCell>
         <mxCell id="mwnPhGJqHr3dkJhOsE_W-75" value="bins / libs" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;container=0;" vertex="1" parent="mwnPhGJqHr3dkJhOsE_W-74">
           <mxGeometry y="50.0091743119266" width="80" height="28.990825688073397" as="geometry" />
@@ -640,34 +640,49 @@
           <mxGeometry width="77" height="14.495412844036698" as="geometry" />
         </mxCell>
         <mxCell id="mwnPhGJqHr3dkJhOsE_W-78" value="" style="shape=card;whiteSpace=wrap;html=1;fontSize=16;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="340" y="3450" width="80" height="100" as="geometry" />
+          <mxGeometry x="340" y="3380" width="80" height="100" as="geometry" />
         </mxCell>
         <mxCell id="mwnPhGJqHr3dkJhOsE_W-79" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;Generated Files in Volumes&lt;/font&gt;" style="shape=card;whiteSpace=wrap;html=1;fontSize=16;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="344.5" y="3454" width="80" height="100" as="geometry" />
+          <mxGeometry x="344.5" y="3384" width="80" height="100" as="geometry" />
         </mxCell>
         <mxCell id="mwnPhGJqHr3dkJhOsE_W-80" value="" style="endArrow=classic;html=1;rounded=0;fontSize=12;entryX=0;entryY=0;entryDx=0;entryDy=30;entryPerimeter=0;" edge="1" target="mwnPhGJqHr3dkJhOsE_W-79" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="200" y="3470" as="sourcePoint" />
-            <mxPoint x="480" y="3450" as="targetPoint" />
+            <mxPoint x="200" y="3400" as="sourcePoint" />
+            <mxPoint x="480" y="3380" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="mwnPhGJqHr3dkJhOsE_W-90" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;" edge="1" parent="1" source="mwnPhGJqHr3dkJhOsE_W-88" target="mwnPhGJqHr3dkJhOsE_W-89">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="mwnPhGJqHr3dkJhOsE_W-88" value="Docker" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;fontSize=12;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="505" y="3459" width="30" height="60" as="geometry" />
+          <mxGeometry x="505" y="3389" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="mwnPhGJqHr3dkJhOsE_W-89" value="Dont worry!&amp;nbsp;&lt;br&gt;I will preserve this data for you" style="ellipse;whiteSpace=wrap;html=1;verticalAlign=top;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="567" y="3420" width="120" height="60" as="geometry" />
+          <mxGeometry x="567" y="3350" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="mwnPhGJqHr3dkJhOsE_W-92" value="Docker Volumes" style="text;strokeColor=#36393d;fillColor=#cce5ff;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;dashed=1;fontSize=16;horizontal=1;" vertex="1" parent="1">
-          <mxGeometry x="320" y="3360" width="367" height="30" as="geometry" />
+        <mxCell id="mwnPhGJqHr3dkJhOsE_W-92" value="Docker Volumes and Bind Mounts" style="text;strokeColor=#36393d;fillColor=#cce5ff;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;dashed=1;fontSize=16;horizontal=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="3290" width="367" height="30" as="geometry" />
         </mxCell>
         <mxCell id="mwnPhGJqHr3dkJhOsE_W-93" value="" style="shape=card;whiteSpace=wrap;html=1;fontSize=16;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="340.75" y="3565" width="80" height="100" as="geometry" />
+          <mxGeometry x="340.75" y="3495" width="80" height="100" as="geometry" />
         </mxCell>
         <mxCell id="mwnPhGJqHr3dkJhOsE_W-94" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;&amp;nbsp;Other Volumes&lt;/font&gt;" style="shape=card;whiteSpace=wrap;html=1;fontSize=16;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="345.25" y="3570" width="80" height="100" as="geometry" />
+          <mxGeometry x="345.25" y="3500" width="80" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="mwnPhGJqHr3dkJhOsE_W-96" value="&lt;span style=&quot;font-family: Poppins, sans-serif; font-size: 20px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;&lt;font color=&quot;#2672ff&quot;&gt;&lt;u style=&quot;&quot;&gt;Volume:&amp;nbsp;&lt;/u&gt; &lt;/font&gt;&lt;/span&gt;&lt;span style=&quot;font-family: Poppins, sans-serif; font-size: 20px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;&lt;font color=&quot;#0b214a&quot;&gt;A Volume is a directory inside docker. Cannot view the files from outside docker container. &lt;br&gt;Useful when you want to secure your data.&lt;/font&gt;&lt;br&gt;&lt;br&gt;&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;fontSize=14;fontColor=#00CC00;" vertex="1" parent="1">
+          <mxGeometry x="23" y="3722" width="1020" height="58" as="geometry" />
+        </mxCell>
+        <mxCell id="mwnPhGJqHr3dkJhOsE_W-97" value="&lt;span style=&quot;font-family: Poppins, sans-serif; font-size: 20px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;&lt;font color=&quot;#2672ff&quot;&gt;&lt;u style=&quot;&quot;&gt;Bind:&amp;nbsp;&lt;/u&gt; &lt;/font&gt;&lt;/span&gt;&lt;span style=&quot;font-family: Poppins, sans-serif; font-size: 20px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;&lt;font color=&quot;#0b214a&quot;&gt;A link to a directory on your host (vm) from with in a container. Can view the file and modify from your host(vm) machine. &lt;br&gt;Useful when you want to change the data dynamically. Typically used in development stage.&lt;/font&gt;&lt;br&gt;&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;fontSize=14;fontColor=#00CC00;" vertex="1" parent="1">
+          <mxGeometry x="23" y="3920" width="1020" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mwnPhGJqHr3dkJhOsE_W-98" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;docker volume create &amp;lt;volume-name&amp;gt;&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;docker run -it --mount source=&amp;lt;volume-name&amp;gt;,destination=&amp;lt;destination folder in container&amp;gt; -d ubuntu&amp;nbsp;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="263.5" y="3790" width="476.5" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mwnPhGJqHr3dkJhOsE_W-99" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;docker run -it -v source=&amp;lt;host directory&amp;gt;:&amp;lt;destination folder in container&amp;gt; -d ubuntu&amp;nbsp;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="250" y="4010" width="476.5" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mwnPhGJqHr3dkJhOsE_W-100" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;--p&amp;nbsp; 81:80&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="441" y="2927.25" width="240" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
